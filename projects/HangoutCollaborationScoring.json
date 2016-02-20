@@ -1,6 +1,12 @@
-{"project_name":"Google Hangout Collaboration Scoring",
-"project_blurb":"Project Blurb coming soon!",
-"project_url":"URL Coming Soon",
+{"project_name":"HotelBlockChain",
+"project_blurb":"HotelBlockChain, built on Blockchain technology, 
+ is a platform that allows international travelers
+ to reliably transact with a wide variety of hotels all around the world via their direct booking 
+ channels by buying hotels’ loyalty points on “as needed” basis,
+ thus giving them access to the lowest prices and allowing them to use their local currency or a
+ digital currency. HotelBlockChain will help hoteliers eliminate several “middle men” from this transaction, 
+ increasing the power of their direct booking channels and leveraging their existing technologies.",
+"project_url":"http://natashanelson.github.io/Projects/",
 "project_demo_url":"Will link to YouTube Video",
-"project_source":"MIT/Law Open Summer Skunkworks Project",
-"project_people": "Gabi!,Dazza!"}
+"project_source":"MIT/law IAP 2016",
+"project_people": "Natasha, Nchinda, Jonny"}
